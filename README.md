@@ -22,3 +22,6 @@ microcontroller. The microcontroller then accordingly switches the output leds ;
 upper and dipper and after the delay is over the dipper led is again turned ON.The
 default condition considered here for the system is that the oppsite vehicle’s headlight
 is always at Upper position. 
+
+<img width="533" alt="Screen Shot 2022-02-03 at 3 27 53 PM" src="https://user-images.githubusercontent.com/98929080/152423570-8736605d-8d49-4d34-a8a1-25ee2300a586.png"> 
+                Experimental Setup
