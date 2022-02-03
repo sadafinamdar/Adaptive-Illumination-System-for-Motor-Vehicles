@@ -1,4 +1,4 @@
-# Adaptive-Illumination-System-for-Motor-Vehicles
+# Adaptive Illumination System for Motor Vehicles
 Sensing the opposite vehicles bright head lights
 automatically makes our vehicles bright lights DIP –but for few seconds only.
 Immediately after the crossing of the opposite vehicle, the light will come to bright
